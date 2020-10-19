@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{w2l6:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),o=n.n(a),r=n("Ji2X"),c=n("ofer"),u=n("hlFM");t.default=function(){return o.a.createElement(r.a,{maxWidth:"sm"},o.a.createElement(u.a,{my:4},o.a.createElement(c.a,{variant:"h4",component:"h1",gutterBottom:!0},"You should not be here :)")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-33383880a1c75709ecda.js.map
